@@ -1,3 +1,3 @@
-# php-observer
+# php-design-patterns
 
-Estudando o design pattern Observer no PHP.
+Estudando o design patterns no PHP.
